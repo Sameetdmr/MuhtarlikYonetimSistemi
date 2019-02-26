@@ -1,0 +1,12 @@
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\bin\Debug\GirisEkrani.exe.config
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\bin\Debug\GirisEkrani.exe
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\bin\Debug\GirisEkrani.pdb
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.csprojResolveAssemblyReference.cache
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.Properties.Resources.resources
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.csproj.GenerateResource.Cache
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.exe
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.pdb
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.Mos.resources
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.AnaEkran.resources
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.Label_Tc.resources
+C:\Users\samed.SAMET_DEMIR\Desktop\Son1\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.NufusBilgi.resources
