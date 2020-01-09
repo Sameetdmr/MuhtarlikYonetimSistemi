@@ -1,17 +1,17 @@
-# Muhtarlik Yonetim Sistemi
+# Demarch Management System
 
-Fırat Üniversitesi Yazılım Mühendisliği Nesne tabanlı dersinde yapmış olduğum projeyi github hesabımda paylaşmak istedim.
+I wanted to share my project in Fırat University Software Engineering Object Oriented course in my github account.
 
-Projemde Setup.exe çalıştırdıktan sonra yapılacak tek şey adımları geçmek.
+After running Setup.exe in my project, the only thing to do is pass the steps.
 
-Setup Dosyası içinde .exe uzantılı olan dosyası çalıştırınız.
+Run the file that has the .exe extension in the Setup File.
 
-Bilgisayarınızda Access DB var ise sıkıntı çıkmayacaktır.
+If you have Access DB on your computer, it won't be a problem.
 
-İlk kullanım için şifreler
- (admin5-0144)
+Passwords for first use
+  (Admin5-0144)
 
-Sonraki kullanımda Şifre için Ana ekranda değiştirebileceginiz yerler bulunmaktadır.
+On the next use, there are places you can change the Password on the Home screen.
 
 ![image](https://user-images.githubusercontent.com/43873156/53410376-b55afd80-39d4-11e9-9442-dd36f932262f.png)
 
